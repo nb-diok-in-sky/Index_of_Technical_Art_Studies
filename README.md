@@ -15,4 +15,13 @@
 ok这就是我的学习笔记，希望以后的自己看过来，会觉得自己真高瞻远瞩吧啊哈哈哈，此时的脑袋里想起了————怀念啊我们的青春啊！从记忆里生根发芽！后面不会唱了，就这两句。
 突然觉得自己还挺话痨的，嘿嘿。
 
-也不全是ta的学习吧，其他的东西我应该也会放在这里的 比如说我开学第一周借着clude搓出来的一个八字排盘软件，虽然用的是java，我也没碰过java....脑袋坏掉了做出的选择吧...QWQ
+也不全是ta的学习吧，其他的东西我应该也会放在这里的 比如说我开学第一周借着clude搓出来的一个八字排盘软件，虽然用的是java，我也没碰过java....脑袋坏掉了做出的选择...QWQ
+
+八字排盘软件开发-基于android studio
+https://github.com/nb-diok-in-sky/Development-of-BaZi-charting-software
+
+GAMES101的作业
+https://github.com/nb-diok-in-sky/GAMES101-Homework
+
+LearnOpenGL的作业
+https://github.com/nb-diok-in-sky/Learn-OpenGL-Homework
