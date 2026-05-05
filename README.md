@@ -25,3 +25,22 @@ https://github.com/nb-diok-in-sky/GAMES101-Homework
 
 LearnOpenGL的作业
 https://github.com/nb-diok-in-sky/Learn-OpenGL-Homework
+
+Shader编写效果实现
+https://github.com/nb-diok-in-sky/Learn_Shader
+
+雨滴与水雾效果实现
+https://github.com/nb-diok-in-sky/Flow-rain-on-the-Window
+
+Substance Designer 常用节点汇总
+https://github.com/nb-diok-in-sky/Substance_Panting
+
+————————————————————2025.5.5 分界线
+到这里已经是学习两个与月的我了，这两个月真是爆肝..
+今天是五一的最后一天 截至目前我已经爆肝两个月...
+其实五一也在爆肝....可恶 被焦虑裹胁了
+这两个月我去学了 OPENGL和引擎渲染基础原理 也研究一下Unity 和UE 干的事情还是蛮多的
+嗯...燃尽了 （确信）
+也是过着早上八九点爬起来干到晚上十二点的生活....
+以后上班会不会也是这样我靠 燃尽了
+真的燃尽了
